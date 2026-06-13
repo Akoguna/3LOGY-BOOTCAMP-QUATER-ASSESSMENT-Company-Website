@@ -1,0 +1,2 @@
+const TasksPage = () => <div className="p-8 max-w-7xl mx-auto"><h1 className="text-4xl font-bold">Tasks</h1><p className="mt-4">Tasks page - implement similar to Snippets with status toggle.</p></div>;
+export default TasksPage;

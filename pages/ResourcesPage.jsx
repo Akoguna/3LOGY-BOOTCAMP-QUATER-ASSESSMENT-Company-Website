@@ -1,0 +1,2 @@
+const ResourcesPage = () => <div className="p-8 max-w-7xl mx-auto"><h1 className="text-4xl font-bold">Resources</h1><p className="mt-4">Resources page - implement similar to Snippets.</p></div>;
+export default ResourcesPage;
